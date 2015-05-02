@@ -1,2 +1,2 @@
-# MapReuce Program to determine maximum temperature among the given set
+# MapReuce Program
 Simple MapReduce Program to Check Maximum Temperature using Java
